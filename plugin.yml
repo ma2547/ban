@@ -1,0 +1,8 @@
+name: AutoBanPlugin
+version: 1.0
+main: me.deinname.AutoBanPlugin
+api-version: 1.16
+commands:
+  unban:
+    description: Entbannt einen Spieler
+    usage: /unban <Spielername>
